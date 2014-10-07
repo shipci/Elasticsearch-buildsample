@@ -10,4 +10,4 @@ script:
  - python sample.py
 branches:
   only:
-   - master
+   - newbr1
